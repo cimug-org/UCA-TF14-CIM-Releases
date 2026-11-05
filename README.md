@@ -1,1 +1,3 @@
-# UCA-TF14-CIM-Releases
+<h1 id="uca-tf14-cim-releases"><img src="docs/media/logo/tf14-reports-logo.svg#gh-light-mode-only" alt="UCA TF14 CIM Releases" height="84"><img src="docs/media/logo/tf14-reports-logo-dark.svg#gh-dark-mode-only" alt="UCA TF14 CIM Releases" height="84"></h1>
+
+This repository hosts the UCA TF14 website (https://utf14-releases.ucaiug.io) for published and interim releases of the CIM Enterprise package: the UML model of the current International Standard, IEC 61968-11 Ed 2.0 ([Ed 2.0 UML release]), and the interim releases of work in progress toward the next edition of IEC 61968-11. Each release is published with its release notes and a [cim-compare](https://cim-compare.ucaiug.io) report of what changed. These reports and associated artifacts are made available by UCAIug and licensed under the Apache 2.0 open source license.

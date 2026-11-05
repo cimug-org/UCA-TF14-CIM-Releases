@@ -1,0 +1,13 @@
+# CIM Model Management brand assets
+
+Copied unchanged from the CIM Model Management brand kit and used by the website's header (`docs/index.md`, styled in `docs/assets/css/style.scss`).
+
+| File | Use |
+|---|---|
+| `UCA_TF14_white.svg` | UCA TF14 logo for dark backgrounds |
+| `UCA_TF14.svg` | UCA TF14 logo for light backgrounds (the header's white logo line) |
+| `CIM_Model_Management_logo_white.svg` | CIM Model Management logo for dark backgrounds |
+| `CIM_Model_Management_logo_dark.svg` | CIM Model Management logo for light backgrounds (the header's white logo line) |
+| `CIMug_mark.svg` | CIM Users Group mark; the faint watermark on the right of the header |
+
+Brand colors: navy `#0A2E57`, brand blue `#0058A9`, teal `#0097A5`, light teal `#7FD3DC`, band tint `#EEF4F8`, text `#231F20`.
